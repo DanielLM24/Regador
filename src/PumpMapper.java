@@ -1,3 +1,15 @@
+/* 
+ * Universidad del Valle de Guatemala
+ * Algoritmos y Estructura de Datos
+ * Peter Bennett 13243
+ * Daniel Lara Moir 13424
+ * Santiago Gonzalez 13263
+ * 
+ * PumpMapper.java
+ * 
+ * Clasea para mapear los datos. Obtiene fecha y numero de bomba.
+ */
+
 import java.io.IOException;
 import org.apache.hadoop.io.IntWritable;
 import org.apache.hadoop.io.LongWritable;

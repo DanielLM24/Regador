@@ -1,3 +1,15 @@
+/* 
+ * Universidad del Valle de Guatemala
+ * Algoritmos y Estructura de Datos
+ * Peter Bennett 13243
+ * Daniel Lara Moir 13424
+ * Santiago Gonzalez 13263
+ * 
+ * PumpDriver.java
+ * 
+ * Programa que mapea y reduce un conjunto de datos generado por un regador automático.
+ */
+
 import org.apache.hadoop.conf.Configured;
 import org.apache.hadoop.fs.Path;
 import org.apache.hadoop.io.IntWritable;

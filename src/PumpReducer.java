@@ -1,3 +1,15 @@
+/* 
+ * Universidad del Valle de Guatemala
+ * Algoritmos y Estructura de Datos
+ * Peter Bennett 13243
+ * Daniel Lara Moir 13424
+ * Santiago Gonzalez 13263
+ * 
+ * PumpReducer.java
+ * 
+ * Clasifica datos. Obtiene la bomba que se activo mas veces por dia.
+ */
+
 import java.io.IOException;
 
 import org.apache.hadoop.io.IntWritable;
